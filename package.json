@@ -1,0 +1,43 @@
+{
+  "name": "Poetry",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "buffer": "^5.2.1",
+    "firebase": "^5.9.3",
+    "moment": "^2.24.0",
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-native": "0.59.3",
+    "react-native-action-button": "^2.8.5",
+    "react-native-btr": "^1.1.4",
+    "react-native-cardview": "^2.0.2",
+    "react-native-dialog": "^5.6.0",
+    "react-native-dialog-input": "^1.0.7",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-image-crop-picker": "^0.23.1",
+    "react-native-js-bottom-sheet": "^1.1.0",
+    "react-native-rich-text": "^1.0.4",
+    "react-native-simple-dialogs": "^1.1.0",
+    "react-native-uuid": "^1.4.9",
+    "react-native-vector-icons": "^6.4.2",
+    "react-native-zss-rich-text-editor": "^1.1.0",
+    "react-navigation": "^3.9.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/runtime": "^7.4.2",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
