@@ -1,3 +1,3 @@
 # react-native-firebase-app
 
-Firebase ve react native kullanılarak geliştirilmiş basit bir şiir paylaşma uygulaması.
+A simple poem sharing app developed using firebase and react native.
